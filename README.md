@@ -32,4 +32,5 @@ Para usar a aplicação, basta:
     localhost:8000 
     ```
 **Espero que este README forneça informações suficientes para entender e usar o chat em JavaScript. Se você tiver alguma dúvida ou encontrar problemas, sinta-se à vontade para entrar em contato ou abrir uma issue no repositório.** 
+
 *Divirta-se conversando!*
