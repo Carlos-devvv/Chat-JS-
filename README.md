@@ -34,3 +34,6 @@ Para usar a aplicação, basta:
 **Espero que este README forneça informações suficientes para entender e usar o chat em JavaScript. Se você tiver alguma dúvida ou encontrar problemas, sinta-se à vontade para entrar em contato ou abrir uma issue no repositório.** 
 
 *Divirta-se conversando!*
+
+##  **Meu Linked** ![logo](https://github.com/CodeByCarlos01/language-DSL/assets/107969946/aefba453-727d-4b05-ad1c-7e932947ba90) :
+https://www.linkedin.com/in/carlos-eduh/ 👍
